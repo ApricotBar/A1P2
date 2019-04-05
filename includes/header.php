@@ -1,20 +1,15 @@
-<?php
-
-/*
-Author: Jack Boddeke
-Date: 15/03/2019
-Purpose: Lab 4.4
-Version: 0.1 
-Contact: jackboddeke1@outlook.com 
-*/
-?>
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Login Form</title>
-        <link rel="stylesheet" href="css/styles.css">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>A1P2</title>
+        
+        <!--Bootsrap-->
+        <link href="includes/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="includes/css/styles.css" rel="stylesheet" type="text/css"/>
     </head>
-</html>
-
+    
+    <body>
